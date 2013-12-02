@@ -1,0 +1,161 @@
+/* CSS Document */
+
+	article, aside, dialog, figure, footer, header, hgroup, nav, section, audio, video {
+	display:block;
+	}
+	
+/* BODY */
+
+	body{
+	width:100%;
+	height:100%;
+	padding:0px;
+	margin:auto;
+	background-image:url('../img/final.jpg');
+	}
+	
+	.main{
+	width:1100px;
+	height:100%;
+	padding:0px;
+	margin:auto;
+	background:#FFFFFF;
+	}
+	
+/* end body */
+
+/* HEADER */
+
+	header{
+	width:1000px;
+	height:100%;
+	margin:auto;
+	padding:0px;
+	background:#FFFFFF;
+	}
+	
+	#top{
+	width:1000px;
+	height:170px;
+	padding:0px;
+	}
+	
+	#logo{
+	float:left;
+	position:relative;
+	margin:auto;
+	padding:0px;
+	width:200px;
+	margin-top:20px;
+	}
+
+/* end header */
+	
+/* LOGIN */	
+	#loginMenu{
+	float:right;
+	margin-top:70px;
+	height:100px;
+	width:330px;
+	margin-right:0px;
+	}
+
+/* end login */
+
+/* Search Box*/
+
+	#searchBox{
+	float:left;
+	margin:0auto;
+	margin-top:70px;
+	margin-right:70px;
+	padding:0px;
+	width:330px;
+	height:100px;	
+	}
+	
+	#searchBoxBorder{
+	border-top-style:solid;
+	border-color:#333333;
+	width:330px;
+	border-width:5px;
+	padding-bottom:0px;
+	}
+	
+	
+	
+/* end search box */
+
+/* NAVIGATION */
+
+	nav{
+	width:1000px;
+	margin:auto;
+	padding:0px;}
+	
+
+/* end navigation*/
+
+/* CONTENT */
+	
+	content{
+	width:1000px;
+	height:800px;
+	margin:auto;
+	padding:0px;
+	background:#FFFFFF;
+	}
+
+/* end Content */
+
+/* FOOOTER */
+
+	footer{
+	width:1000px;
+	height:100%;
+	margin:auto;
+	padding:0px;
+	}
+	
+/* end footer */
+
+
+#slider2{
+width:990px;
+height:500px;
+margin:auto;
+padding:0px;
+border-style:solid;
+border-width:5px;
+border-color:#3f3f3f;
+border-radius:10px;
+}
+img{
+border-radius:5px;
+
+}
+
+#thum{
+margin-top:20px;
+margin-bottom:20px;
+}
+
+#borderSolid{
+border-top-style:solid;
+border-color:#333333;
+border-width:5px;
+padding-top:20px;
+}
+
+#leftAlign{
+margin-left:80px;
+}
+
+
+#slider a[href]{
+color:#333333;
+}
+
+.dropdown-menu{
+background:#333333;
+}
